@@ -1,0 +1,22 @@
+.headline  {
+    color: aquamarine;
+    background-color:chocolate;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+body  {
+    background-color: antiquewhite;
+}
+
+P, ul  {
+    font-size: 2.5rem;
+}
+
+ul {
+    list-style: none;
+}
+
+.center_elements {
+    text-align: center;
+}
